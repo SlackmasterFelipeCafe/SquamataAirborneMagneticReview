@@ -6,7 +6,7 @@
 #
 #The file will be outut tpo the appropriate users diorectory >>--PJB-->
 #
-pandas==0.23.0
+pandas
 numpy==1.14.3
 ipython==6.4.0
 ipython-genutils==0.2.0
