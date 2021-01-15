@@ -4,7 +4,7 @@
 **SquamataAssemblyAMT** is a Jupyter Binder Notebook used to review Airborne Magnetic Data. 
 To explore or operate this notebook, click on the link below:
 
-https://mybinder.org/v2/gh/pbrown-usgs/SquamataAirborneMagneticReview/main
+https://mybinder.org/v2/gh/pbrown-usgs/SquamataAirborneMagneticReview/main?filepath=SquamataAirborneMagneticSurveyReview_1-0.ipynb
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pbrown-usgs/SquamataAirborneMagneticReview/main?filepath=SquamataAirborneMagneticSurveyReview_1-0.ipynb)
 
